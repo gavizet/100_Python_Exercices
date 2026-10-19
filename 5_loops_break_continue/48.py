@@ -1,0 +1,1 @@
+# 48. Utiliser continue pour ignorer les lettres 'a' et 'e' lors de l'affichage des lettres d'un mot. 

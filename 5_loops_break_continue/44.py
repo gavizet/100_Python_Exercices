@@ -1,0 +1,1 @@
+# 44. Écrire une boucle qui affiche les nombres de 1 à 20, mais saute les multiples de 3.

@@ -1,0 +1,1 @@
+# 47. Utiliser break pour quitter une boucle infinie après 5 itérations.

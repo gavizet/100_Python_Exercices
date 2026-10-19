@@ -1,0 +1,1 @@
+# 42. Créer une boucle qui demande un nombre et s'arrête si le nombre est 0.

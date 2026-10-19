@@ -1,0 +1,1 @@
+# 43. Utiliser continue pour afficher uniquement les nombres impairs de 1 à 10.
